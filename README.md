@@ -1,17 +1,16 @@
-# 📊 Revenue Insights AI
-**Küçük İşletmeler İçin Yapay Zeka Destekli Finansal Danışman**
+# Revenue Insights AI
+**İşletmenizin Cebini Düşünen Dijital Asistan**
 
-Bu proje, işletme sahiplerinin günlük gelir ve giderlerini takip etmelerini sağlayan, aynı zamanda AI ajanları aracılığıyla stratejik tavsiyeler sunan bir platformdur.
+Bu proje, küçük işletme sahiplerinin her gün yaşadığı "Bugün ne kazandım, nereye ne harcadım?" karmaşasını çözmek için tasarlandı. Sadece rakamları girin, gerisini asistanınıza bırakın.
 
-## ✨ Öne Çıkan Özellikler
-- **AI Ajan Desteği:** Data Analyst ve Business Advisor ajanları ile akıllı analiz.
-- **Anlık Görselleştirme:** Dinamik grafiklerle finansal durum takibi.
-- **Hızlı Karar Desteği:** Saniyeler içinde üretilen tasarruf ve büyüme önerileri.
+## Neler Yapıyor?
+- *Anlaşılır Dashboard:* Karmaşık tablolar yerine, gelir ve giderinizi net grafiklerle görün.
+- *Akıllı Hatırlatıcı:* Harcamalarınızda bir anormallik olduğunda veya kârınız arttığında size haber verir.
+- *Pratik Tavsiyeler:*"Bu hafta harcamalar biraz artmış, şu kalemde tasarruf yapabiliriz" gibi dostane öneriler sunar.
 
-## 🚀 Kurulum ve Çalıştırma
-1. Bu repoyu bilgisayarınıza indirin.
-2. Gerekli kütüphaneleri yükleyin: `pip install streamlit crewai`
-3. Uygulamayı başlatın: `streamlit run main.py`
+## Nasıl Kullanılır?
+- Bilgisayarınıza indirdikten sonra `pip install streamlit crewai` komutuyla hazırlığınızı yapın.
+- `streamlit run main.py` yazarak asistanınızı çalıştırın.
 
-## 🛠 Mimari
-Teknik detaylar için [ARCHITECTURE.md](./ARCHITECTURE.md) dosyasını inceleyebilirsiniz.
+---
+*Hedefimiz, her esnafın cebinde profesyonel bir finans danışmanı taşımasını sağlamak. *
